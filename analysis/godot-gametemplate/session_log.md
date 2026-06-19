@@ -1,0 +1,1 @@
+- 2026-05-25: 生成 HTML 導覽層（html/index.html、architecture.html、tutorial.html、_shared.css），複用 Cogito 既有樣式。
